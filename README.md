@@ -1,6 +1,6 @@
-#Weather App
+# Weather App
 
-##About
+## gitAbout
 it gives accurate weather details based on user location or using an ip address
 
 ## Guide lines 
